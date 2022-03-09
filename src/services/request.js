@@ -1,7 +1,7 @@
 import axios from "axios"
 
 //let baseURL = "http://localhost:9000"
-let baseURL = "https://www.lowultimate.com"
+let baseURL = "https://www.admintwo.netlify.app"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
