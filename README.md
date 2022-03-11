@@ -153,7 +153,7 @@ Licensed under the [MIT License](https://github.com/medusajs/medusa/blob/master/
   </a> 
   |
   <a href="https://medusajs.notion.site/medusajs/Medusa-Home-3485f8605d834a07949b17d1a9f7eafd">
-    Notion Home
+    Notion Homess
   </a>
   |
   <a href="https://twitter.com/intent/follow?screen_name=medusajs">
